@@ -1,17 +1,24 @@
 # Table of contents
 
 * [Welcome](README.md)
+  * [Contribute](readme/contribute.md)
+  * [Instagram](https://www.instagram.com/enlighteneers/)
+  * [Youtube](https://www.youtube.com/@enlighteneers)
+  * [X](https://x.com/enlighteneers\_)
+  * [TikTok](https://www.tiktok.com/@enlighteneers\_)
 
-## Getting Started
+## Music
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Overview](music/quickstart.md)
 
-## Basics
+## Embodiment
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Overview](embodiment/editor.md)
+
+## Drugs
+
+* [Overview](drugs/overview.md)
+
+## Sex
+
+* [Overview](sex/overview.md)

@@ -1,6 +1,6 @@
 ---
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
+cover: .gitbook/assets/cover_banner.jpg
+coverY: 151
 layout:
   cover:
     visible: true
@@ -19,10 +19,16 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Enlighteneers explores the frontiers of human consciousness through Music, Embodiment, Drugs, and Sex (MEDS). Combining scientific rigor with firsthand experiences, we journey into altered states and personal transformation.&#x20;
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+From ecstatic dance floors to meditation chambers, from psychedelic research to tantric practices, we investigate how humans push the boundaries of perception. Enlighteneers offers a provocative, yet responsible look at expanded awareness.
+
+Sign up for a 10-day email course to experience more bliss in your life.
+
+_Get our of your head, take your MEDS_
+
+{% embed url="https://enlighteneers.ck.page/46e63be2de" %}
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td><a href=".gitbook/assets/1.png">1.png</a></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td><a href=".gitbook/assets/3.png">3.png</a></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Music</strong></td><td></td><td><a href=".gitbook/assets/1.png">1.png</a></td><td></td><td><a href="music/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Embodiment</strong></td><td></td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Drugs</strong></td><td></td><td><a href=".gitbook/assets/3.png">3.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Sex</td><td></td><td></td><td></td><td></td></tr><tr><td>Contribute</td><td></td><td></td><td></td><td></td></tr><tr><td>Links</td><td></td><td></td><td></td><td></td></tr></tbody></table>
