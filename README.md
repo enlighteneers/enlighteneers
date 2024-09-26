@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/cover_banner.jpg
-coverY: 151
+cover: .gitbook/assets/cover_banner_minimalistic.webp
+coverY: 0
 layout:
   cover:
     visible: true
