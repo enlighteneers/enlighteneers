@@ -25,7 +25,7 @@ Enlighteneers explores the frontiers of human consciousness through Music, Embod
 
 From ecstatic dance floors to meditation chambers, from psychedelic research to tantric practices, we investigate how humans push the boundaries of perception. Enlighteneers offers a provocative, yet responsible look at expanded awareness.
 
-We also host events in San Francisco.
+We also host events in San Francisco, join our [WhatsApp group](https://chat.whatsapp.com/BomIMIAzubp8dvPrkQWpqA) to stay up to date.
 
 Sign up for a 10-day email course to experience more bliss in your life.
 
